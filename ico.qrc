@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ico/Delete.png</file>
+        <file>ico/Ellipse.png</file>
+        <file>ico/Finger.png</file>
+        <file>ico/Palette.png</file>
+        <file>ico/Rectangle.png</file>
+        <file>ico/Redo.png</file>
+        <file>ico/Undo.png</file>
+        <file>ico/New_File.png</file>
+    </qresource>
+</RCC>
